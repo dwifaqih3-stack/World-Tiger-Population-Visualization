@@ -1,0 +1,7 @@
+year,global_estimate,lower_bound,upper_bound,estimate_type,source_ids,notes
+1900,100000,,,approximate,S39,Widely cited historical estimate
+2010,3200,,,approximate,S42;S26,"'As few as 3,200' - baseline of the Global Tiger Recovery Program (St Petersburg summit)"
+2016,3890,,,point,S26,WWF/GTF compilation; Myanmar excluded; lower bounds used
+2022,,3726,5578,range,S29,IUCN Red List: mature individuals only
+2023,5574,,,point,S32;S33,"Global Tiger Forum, +43% vs 2016, +74% vs 2010"
+2026,5902,,,derived_sum,S01;S03;S07;S09;S10;S11;S13;S14;S15;S18;S19;S22;S24;S25;S26;S28;S31;S32;S34;S36;S37;S38;S57,Sum of each country's latest estimate in this dataset (mixed survey years 2019-2026); not an official figure

@@ -1,0 +1,15 @@
+country,iso3,subspecies,latest_survey_year,population_estimate,lower_bound,upper_bound,estimate_type,country_status,data_quality,source_ids
+India,IND,Bengal (P. t. tigris),2022,3682,3167,3925,point_with_range,present,high,S01;S03
+Russia,RUS,"Amur (P. t. tigris, mainland)",2022,750,750,,minimum,present,medium,S15;S18;S57
+Nepal,NPL,Bengal (P. t. tigris),2026,429,,,point,present,high,S07;S09
+Indonesia,IDN,Sumatran (P. t. sondaica),2026,300,,,approximate,present,low,S28
+Thailand,THA,"Indochinese/Malayan (P. t. tigris, mainland)",2026,234,210,257,range_midpoint,present,high,S22
+Malaysia,MYS,"Indochinese/Malayan (P. t. tigris, mainland)",2020,150,,150,maximum,present,high,S24;S25
+Bhutan,BTN,Bengal (P. t. tigris),2022,131,,,point,present,high,S13;S14
+Bangladesh,BGD,Bengal (P. t. tigris),2024,125,,,point,present,high,S10;S11
+China,CHN,"Amur (P. t. tigris, mainland)",2026,72,,,point,present,medium,S19
+Myanmar,MMR,"Indochinese/Malayan (P. t. tigris, mainland)",2023,28,,,point,present,low,S32
+Kazakhstan,KAZ,"Amur (P. t. tigris, mainland)",2026,1,,,point,reintroduced,high,S37;S38
+Cambodia,KHM,"Indochinese/Malayan (P. t. tigris, mainland)",2016,0,,,zero,functionally_extinct,high,S26;S36
+Laos,LAO,"Indochinese/Malayan (P. t. tigris, mainland)",2019,0,,,zero,functionally_extinct,high,S34
+Vietnam,VNM,"Indochinese/Malayan (P. t. tigris, mainland)",2023,0,,,zero,functionally_extinct,medium,S32;S31
